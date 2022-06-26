@@ -1,0 +1,3512 @@
+{
+	"Wallace's Weapon Shop (TT)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"094",
+				"08B"
+			],
+			"Product Names": [
+				"Hammer Staff",
+				"Adamant Shield"
+			]
+		}
+	],
+	"Biggs's Armor Shop (TT)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"043",
+				"128"
+			],
+			"Product Names": [
+				"Elven Bandanna",
+				"Shadow Anklet"
+			]
+		}
+	],
+	"Jessie's Accessory Shop (TT)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"008"
+			],
+			"Product Names": [
+				"Ability Ring"
+			]
+		}
+	],
+	"Wantz's Item Shop (TT)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"001",
+				"083"
+			],
+			"Product Names": [
+				"Potion",
+				"Tent"
+			]
+		}
+	],
+	"Elmina's Workshop (TT)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [],
+			"Product Names": []
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	],
+	"Huey, Dewey, and Louie's Weapon Shop (HB)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"094",
+				"08B"
+			],
+			"Product Names": [
+				"Hammer Staff",
+				"Adamant Shield"
+			]
+		}
+	],
+	"Wedge's Armor Shop (HB)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"043",
+				"128"
+			],
+			"Product Names": [
+				"Elven Bandanna",
+				"Shadow Anklet"
+			]
+		}
+	],
+	"Huey, Dewey, and Louie's Accessory Shop (HB)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"008"
+			],
+			"Product Names": [
+				"Ability Ring"
+			]
+		}
+	],
+	"Huey, Dewey, and Louie's Item Shop (HB)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"001",
+				"003",
+				"083"
+			],
+			"Product Names": [
+				"Potion",
+				"Ether",
+				"Tent"
+			]
+		}
+	],
+	"Mog's Workshop (HB)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [],
+			"Product Names": []
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	],
+	"Kupo's Moogle Shop (MU)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"043",
+				"0AD",
+				"11E",
+				"123",
+				"12D",
+				"001",
+				"003",
+				"083"
+			],
+			"Product Names": [
+				"Elven Bandanna",
+				"Fire Bangle",
+				"Blizzard Armlet",
+				"Thunder Trinket",
+				"Abas Chain",
+				"Potion",
+				"Ether",
+				"Tent"
+			]
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	],
+	"Monty's Moogle Shop (BB)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"008",
+				"00C",
+				"011",
+				"001",
+				"003",
+				"083"
+			],
+			"Product Names": [
+				"Ability Ring",
+				"Sardonyx Ring",
+				"Silver Ring",
+				"Potion",
+				"Ether",
+				"Tent"
+			]
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	],
+	"Mosh's Moogle Shop (HE)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"094",
+				"097",
+				"08B",
+				"08E",
+				"001",
+				"003",
+				"083"
+			],
+			"Product Names": [
+				"Hammer Staff",
+				"Comet Staff",
+				"Adamant Shield",
+				"Falling Star",
+				"Potion",
+				"Ether",
+				"Tent"
+			]
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	],
+	"Mogjiro's Moogle Shop (DC)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"043",
+				"044",
+				"129",
+				"001",
+				"003",
+				"083"
+			],
+			"Product Names": [
+				"Elven Bandanna",
+				"Divine Bandanna",
+				"Dark Anklet",
+				"Potion",
+				"Ether",
+				"Tent"
+			]
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	],
+	"Mogtaro's Moogle Shop (WI)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"008",
+				"009",
+				"00D",
+				"012",
+				"001",
+				"003",
+				"083"
+			],
+			"Product Names": [
+				"Ability Ring",
+				"Engineer's Ring",
+				"Tourmaline Ring",
+				"Gold Ring",
+				"Potion",
+				"Ether",
+				"Tent"
+			]
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	],
+	"Morlock's Moogle Shop (CA)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"094",
+				"095",
+				"08B",
+				"08C",
+				"001",
+				"003",
+				"083"
+			],
+			"Product Names": [
+				"Hammer Staff",
+				"Victory Bell",
+				"Adamant Shield",
+				"Chain Gear",
+				"Potion",
+				"Ether",
+				"Tent"
+			]
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	],
+	"Mojito's Moogle Shop (AL)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"044",
+				"0AE",
+				"11F",
+				"124",
+				"12E",
+				"001",
+				"003",
+				"083"
+			],
+			"Product Names": [
+				"Divine Bandanna",
+				"Fira Bangle",
+				"Blizzara Armlet",
+				"Thundara Trinket",
+				"Aegis Chain",
+				"Potion",
+				"Ether",
+				"Tent"
+			]
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	],
+	"Gumo's Moogle Shop (NM)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"008",
+				"009",
+				"00A",
+				"00E",
+				"013",
+				"001",
+				"003",
+				"083"
+			],
+			"Product Names": [
+				"Ability Ring",
+				"Engineer's Ring",
+				"Technician's Ring",
+				"Aquamarine Ring",
+				"Platinum Ring",
+				"Potion",
+				"Ether",
+				"Tent"
+			]
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	],
+	"Kumop's Moogle Shop (LK)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"094",
+				"098",
+				"08B",
+				"08F",
+				"001",
+				"003",
+				"083"
+			],
+			"Product Names": [
+				"Hammer Staff",
+				"Lord's Broom",
+				"Adamant Shield",
+				"Dreamcloud",
+				"Potion",
+				"Ether",
+				"Tent"
+			]
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	],
+	"Artemicion's Moogle Shop (TR)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"12E",
+				"00E",
+				"013",
+				"001",
+				"002",
+				"003",
+				"083"
+			],
+			"Product Names": [
+				"Aegis Chain",
+				"Aquamarine Ring",
+				"Platinum Ring",
+				"Potion",
+				"Hi-Potion",
+				"Ether",
+				"Tent"
+			]
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	],
+	"Stiltzkin's Moogle Shop(EH)": [
+		{
+			"Menu Flag": "FFFF",
+			"Menu Flag Name": "Always Unlocked",
+			"Products": [
+				"099",
+				"090",
+				"001",
+				"002",
+				"003",
+				"083"
+			],
+			"Product Names": [
+				"Wisdom Wand",
+				"Knight Defender",
+				"Potion",
+				"Hi-Potion",
+				"Ether",
+				"Tent"
+			]
+		},
+		{
+			"Menu Flag": "4C",
+			"Menu Flag Name": "SHOP_MIX_LIST_04",
+			"Products": [
+				"13D"
+			],
+			"Product Names": [
+				"Blazing Shard"
+			]
+		},
+		{
+			"Menu Flag": "4D",
+			"Menu Flag Name": "SHOP_MIX_LIST_05",
+			"Products": [
+				"13E"
+			],
+			"Product Names": [
+				"Blazing Stone"
+			]
+		},
+		{
+			"Menu Flag": "4E",
+			"Menu Flag Name": "SHOP_MIX_LIST_06",
+			"Products": [
+				"13F"
+			],
+			"Product Names": [
+				"Blazing Gem"
+			]
+		},
+		{
+			"Menu Flag": "4F",
+			"Menu Flag Name": "SHOP_MIX_LIST_07",
+			"Products": [
+				"17A"
+			],
+			"Product Names": [
+				"Frost Shard"
+			]
+		},
+		{
+			"Menu Flag": "50",
+			"Menu Flag Name": "SHOP_MIX_LIST_08",
+			"Products": [
+				"17B"
+			],
+			"Product Names": [
+				"Frost Stone"
+			]
+		},
+		{
+			"Menu Flag": "51",
+			"Menu Flag Name": "SHOP_MIX_LIST_09",
+			"Products": [
+				"17C"
+			],
+			"Product Names": [
+				"Frost Gem"
+			]
+		},
+		{
+			"Menu Flag": "52",
+			"Menu Flag Name": "SHOP_MIX_LIST_10",
+			"Products": [
+				"145"
+			],
+			"Product Names": [
+				"Lightning Shard"
+			]
+		},
+		{
+			"Menu Flag": "53",
+			"Menu Flag Name": "SHOP_MIX_LIST_11",
+			"Products": [
+				"146"
+			],
+			"Product Names": [
+				"Lightning Stone"
+			]
+		},
+		{
+			"Menu Flag": "54",
+			"Menu Flag Name": "SHOP_MIX_LIST_12",
+			"Products": [
+				"147"
+			],
+			"Product Names": [
+				"Lightning Gem"
+			]
+		},
+		{
+			"Menu Flag": "58",
+			"Menu Flag Name": "SHOP_MIX_LIST_16",
+			"Products": [
+				"14D"
+			],
+			"Product Names": [
+				"Lucid Shard"
+			]
+		},
+		{
+			"Menu Flag": "59",
+			"Menu Flag Name": "SHOP_MIX_LIST_17",
+			"Products": [
+				"14E"
+			],
+			"Product Names": [
+				"Lucid Stone"
+			]
+		},
+		{
+			"Menu Flag": "5A",
+			"Menu Flag Name": "SHOP_MIX_LIST_18",
+			"Products": [
+				"14F"
+			],
+			"Product Names": [
+				"Lucid Gem"
+			]
+		},
+		{
+			"Menu Flag": "55",
+			"Menu Flag Name": "SHOP_MIX_LIST_13",
+			"Products": [
+				"149"
+			],
+			"Product Names": [
+				"Power Shard"
+			]
+		},
+		{
+			"Menu Flag": "56",
+			"Menu Flag Name": "SHOP_MIX_LIST_14",
+			"Products": [
+				"14A"
+			],
+			"Product Names": [
+				"Power Stone"
+			]
+		},
+		{
+			"Menu Flag": "57",
+			"Menu Flag Name": "SHOP_MIX_LIST_15",
+			"Products": [
+				"14B"
+			],
+			"Product Names": [
+				"Power Gem"
+			]
+		},
+		{
+			"Menu Flag": "49",
+			"Menu Flag Name": "SHOP_MIX_LIST_01",
+			"Products": [
+				"118"
+			],
+			"Product Names": [
+				"Dark Shard"
+			]
+		},
+		{
+			"Menu Flag": "4A",
+			"Menu Flag Name": "SHOP_MIX_LIST_02",
+			"Products": [
+				"119"
+			],
+			"Product Names": [
+				"Dark Stone"
+			]
+		},
+		{
+			"Menu Flag": "4B",
+			"Menu Flag Name": "SHOP_MIX_LIST_03",
+			"Products": [
+				"11A"
+			],
+			"Product Names": [
+				"Dark Gem"
+			]
+		},
+		{
+			"Menu Flag": "5B",
+			"Menu Flag Name": "SHOP_MIX_LIST_19",
+			"Products": [
+				"151"
+			],
+			"Product Names": [
+				"Dense Shard"
+			]
+		},
+		{
+			"Menu Flag": "5C",
+			"Menu Flag Name": "SHOP_MIX_LIST_20",
+			"Products": [
+				"152"
+			],
+			"Product Names": [
+				"Dense Stone"
+			]
+		},
+		{
+			"Menu Flag": "5D",
+			"Menu Flag Name": "SHOP_MIX_LIST_21",
+			"Products": [
+				"153"
+			],
+			"Product Names": [
+				"Dense Gem"
+			]
+		},
+		{
+			"Menu Flag": "5E",
+			"Menu Flag Name": "SHOP_MIX_LIST_22",
+			"Products": [
+				"155"
+			],
+			"Product Names": [
+				"Twilight Shard"
+			]
+		},
+		{
+			"Menu Flag": "5F",
+			"Menu Flag Name": "SHOP_MIX_LIST_23",
+			"Products": [
+				"156"
+			],
+			"Product Names": [
+				"Twilight Stone"
+			]
+		},
+		{
+			"Menu Flag": "60",
+			"Menu Flag Name": "SHOP_MIX_LIST_24",
+			"Products": [
+				"157"
+			],
+			"Product Names": [
+				"Twilight Gem"
+			]
+		}
+	]
+}
